@@ -25,7 +25,7 @@
   />
   <div class="absolute inset-0 bg-gradient-to-br from-slate-950/90 via-slate-950/65 to-slate-950/90"></div>
   <div class="absolute -top-24 -left-24 h-80 w-80 rounded-full bg-indigo-500/20 blur-3xl"></div>
-  <div class="absolute -bottom-28 -right-28 h-80 w-80 rounded-full bg-fuchsia-500/20 blur-3xl"></div>
+  <div class="absolute -bottom-28 -right-28 h-80 w-80 rounded-full bg-blue-500/20 blur-3xl"></div>
 </div>
 
   <!-- Page -->
